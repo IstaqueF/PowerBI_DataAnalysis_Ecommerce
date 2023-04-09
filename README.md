@@ -7,8 +7,7 @@ Created Interactive dashboard using PowerBI
 • Created connections , join new tables, calculation to manipulate data and enable user driven parameters for visualizations 
 • used different types of customizes visualizations( bar chart, donut chart, clustered bar chart, Treemap chart, slicers etc) 
 
-[Power BI Dashboard link]
-(https://app.powerbi.com/groups/me/reports/ee208fcb-19bc-460a-a640-d41d92d52175/ReportSection)
+[Power BI Dashboard link](https://app.powerbi.com/groups/me/reports/ee208fcb-19bc-460a-a640-d41d92d52175/ReportSection)
 
 
 
