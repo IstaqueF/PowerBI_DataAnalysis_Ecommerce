@@ -24,13 +24,17 @@ By looking at the breakdown of profitability by category we can see in September
 ![image](https://user-images.githubusercontent.com/124199213/230793792-64dbd21b-45a1-4f45-a16a-815d705e5889.png)
 
 • Electronics: The months of May, July, September and December have suffered heavy loss as per the below dashboard shows 
-![image](https://user-images.githubusercontent.com/124199213/230793893-6e0822f2-cc55-4723-abc9-4392d81d9772.png)
+
+![image](https://user-images.githubusercontent.com/124199213/230799472-176fd96d-cee8-4a0d-ac59-e0d2622f693d.png)
+
 
 By further looking into it we can see the majority of losses are coming from Electronic games and phones. Since of these sub-categories are luxurious goods the price tends to be volatile and many times sellers are forced to sell them at a discounted price in case of the arrival of new products as the demand falls sharply. 
 ![image](https://user-images.githubusercontent.com/124199213/230793995-7d32730a-c9e9-4618-bad3-0983fc737240.png)
 
 • Furniture: Only in December it had significant losses
-![image](https://user-images.githubusercontent.com/124199213/230794016-17052882-4cfc-4a56-948c-c4fc19829a15.png)
+
+![image](https://user-images.githubusercontent.com/124199213/230799493-67f6ae9f-ce3f-4232-a685-3ecddd0c795c.png)
+
 
 The below breakdown explains the reason behind this fall in profit.
 ![image](https://user-images.githubusercontent.com/124199213/230794048-7b7f7082-0909-4e3a-af0d-33d53853a061.png)
