@@ -16,7 +16,8 @@ Let's deep dive in each of these category to find out what has caused the up and
 
 
 • Clothing: We can see from the below dashboard that from the month of October to November there was a good run in terms of profitability but the month of September has suffered signicant loss. 
-![image](https://user-images.githubusercontent.com/124199213/230799353-15169dcf-6f77-46f7-a059-d3b41d9f0fdf.png)
+![image](https://user-images.githubusercontent.com/124199213/230799406-11b42d64-7151-4ce5-ba79-f763521f5689.png)
+
 
 
 By looking at the breakdown of profitability by category we can see in September the store has generated loss in trousers which evetually truned into profit in November. We can assume it's due to the summer trousers being sold in clearance as from November the store has started selling winter trousers 
