@@ -36,4 +36,5 @@ The below breakdown explains the reason behind this fall in profit.
 # Power BI: 
 [Power BI Dashboard link](https://app.powerbi.com/groups/me/reports/ee208fcb-19bc-460a-a640-d41d92d52175/ReportSection)
 
-# Conclusion: We can notice an overall fall in demand during December and a sharp increase in demand from January. This can be partly due to the pricing policy used by the management and/or also might be contributed by the Seasonal pattern of consumption noticed in India. Since we have a downtime during the summer it is suggested to bring more products (summer clothings as it already has client for that niche) which are on high demand during that period and also make better decision with pricing and inventory of Phones and electronic games. 
+# Conclusion: 
+We can notice an overall fall in demand during December and a sharp increase in demand from January. This can be partly due to the pricing policy used by the management and/or also might be contributed by the Seasonal pattern of consumption noticed in India. Since we have a downtime during the summer it is suggested to bring more products (summer clothings as it already has client for that niche) which are on high demand during that period and also make better decision with pricing and inventory of Phones and electronic games. 
