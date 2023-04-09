@@ -17,8 +17,19 @@ Let's deep dive in each of these category to find out what has caused the up and
 By looking at the breakdown of profitability by category we can see in September the store has generated loss in trousers which evetually truned into profit in November. We can assume it's due to the summer trousers being sold in clearance as from November the store has started selling winter trousers 
 ![image](https://user-images.githubusercontent.com/124199213/230793792-64dbd21b-45a1-4f45-a16a-815d705e5889.png)
 
-# Visualization
+• Electronics: The months of May, July, September and Deecember have suffered heavy loss as per the below dashboard shows 
+![image](https://user-images.githubusercontent.com/124199213/230793893-6e0822f2-cc55-4723-abc9-4392d81d9772.png)
 
+By further looking into it we can see the majority of losses are coming from Electronic games and phones. Since of these sub-categories are luxurious goods the price tends to be volatile and many times sellers are forced to sell them at a discounted price in case of the arrival of new products as the demand falls sharply. 
+![image](https://user-images.githubusercontent.com/124199213/230793995-7d32730a-c9e9-4618-bad3-0983fc737240.png)
+
+• Furniture: Only in December it had significant losses
+![image](https://user-images.githubusercontent.com/124199213/230794016-17052882-4cfc-4a56-948c-c4fc19829a15.png)
+
+The below breakdown explains the reason behind this fall in profit.
+![image](https://user-images.githubusercontent.com/124199213/230794048-7b7f7082-0909-4e3a-af0d-33d53853a061.png)
+
+# Power BI: 
 [Power BI Dashboard link](https://app.powerbi.com/groups/me/reports/ee208fcb-19bc-460a-a640-d41d92d52175/ReportSection)
 
-![image](https://user-images.githubusercontent.com/124199213/230769449-09c963bc-4c82-487a-bc8d-97e3befb9cc0.png)
+Conclusion: We can notice an overall fall in demand during December and a sharp increase in demand from January. This can be partly due to the pricing policy used by the management and/or also might be contributed by the Seasonal pattern of consumption noticed in India. Since we have a downtime during the summer it is suggested to bring more products (summer clothings as it already has client for that niche) which are on high demand during that period and also make better decision with pricing and inventory of Phones and electronic games. 
