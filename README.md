@@ -7,9 +7,13 @@ Created Interactive dashboard using PowerBI and analysed the data of a ecommerce
 • Created connections , join new tables, calculation to manipulate data and enable user driven parameters for visualizations 
 • used different types of customizes visualizations( bar chart, donut chart, clustered bar chart, Treemap chart, slicers etc) 
 
+#Dashboard: 
+![image](https://user-images.githubusercontent.com/124199213/230794320-9849877a-c331-419b-881a-840c88be6011.png)
+
 # Insights after analysis
 From the analysis we have found out the 2 states with highest sales and also the months that tend to be busier compared to other months in summer. The trend picks up from October that sees a surge in November which surprisingly drops sharply in Deecember. The year starts well whith a high spike in January but the trend fades in next 3 months with a gradual decline. 
 Let's deep dive in each of these category to find out what has caused the up and down trends. 
+
 
 • Clothing: We can see from the below dashboard that from the month of October to November there was a good run in terms of profitability but the month of September has suffered signicant loss. 
 ![image](https://user-images.githubusercontent.com/124199213/230793583-064fcc4f-8ca9-4bab-8085-c28454b3d9ca.png)
@@ -32,4 +36,4 @@ The below breakdown explains the reason behind this fall in profit.
 # Power BI: 
 [Power BI Dashboard link](https://app.powerbi.com/groups/me/reports/ee208fcb-19bc-460a-a640-d41d92d52175/ReportSection)
 
-Conclusion: We can notice an overall fall in demand during December and a sharp increase in demand from January. This can be partly due to the pricing policy used by the management and/or also might be contributed by the Seasonal pattern of consumption noticed in India. Since we have a downtime during the summer it is suggested to bring more products (summer clothings as it already has client for that niche) which are on high demand during that period and also make better decision with pricing and inventory of Phones and electronic games. 
+# Conclusion: We can notice an overall fall in demand during December and a sharp increase in demand from January. This can be partly due to the pricing policy used by the management and/or also might be contributed by the Seasonal pattern of consumption noticed in India. Since we have a downtime during the summer it is suggested to bring more products (summer clothings as it already has client for that niche) which are on high demand during that period and also make better decision with pricing and inventory of Phones and electronic games. 
