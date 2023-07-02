@@ -31,7 +31,7 @@ By looking at the breakdown of profitability by category we can see in September
 By further looking into it we can see the majority of losses are coming from Electronic games and phones. Since of these sub-categories are luxurious goods the price tends to be volatile and many times sellers are forced to sell them at a discounted price in case of the arrival of new products as the demand falls sharply. 
 ![image](https://user-images.githubusercontent.com/124199213/230793995-7d32730a-c9e9-4618-bad3-0983fc737240.png)
 
-• Furniture: Only in December it had significant losses
+• Furniture: During October and December it had significant losses
 
 ![image](https://user-images.githubusercontent.com/124199213/230799493-67f6ae9f-ce3f-4232-a685-3ecddd0c795c.png)
 
